@@ -74,25 +74,20 @@ with a focus on automating analytical and decision-support processes.
 
 ## 📌 Selected Repositories
 
-### 🐦 [Twitter Data Scraping](https://github.com/MonaFaghfouri/Twitter-data-scraping)
+### 🧠 [Topic Modeling](https://github.com/MonaFaghfouri/Topic_Modeling)
+A comparative NLP pipeline for Persian social media using LDA, TF-IDF, Word2Vec, BERT embeddings, graph analysis, temporal modeling, and statistical evaluation.
 
-Data collection pipelines for Persian social media research.
+### 💰 [Price Intelligence Platform](https://github.com/MonaFaghfouri/price-intelligence-platform)
+Multi-source price intelligence and product comparison platform built with Python, Streamlit, Playwright, and web data extraction.
+
+### 📊 [RFM Customer Segmentation](https://github.com/MonaFaghfouri/RFM)
+Customer segmentation and behavioral analysis using Recency, Frequency, and Monetary (RFM) analysis.
+
+### 🐦 [Twitter Data Scraping](https://github.com/MonaFaghfouri/Twitter-data-scraping)
+Data collection pipeline for extracting Twitter/X data for social media and computational research.
 
 ### 👽 [Reddit Data Scraping](https://github.com/MonaFaghfouri/Reddit-data-scraping)
-
-Automated Reddit data collection for computational research.
-
-### 🧹 [NLP Pre-processing](https://github.com/MonaFaghfouri/Pre-processing)
-
-Text cleaning and preprocessing workflows for Persian NLP.
-
-### 📊 [Descriptive Data Analysis](https://github.com/MonaFaghfouri/Descriptive-data-analysis)
-
-Exploratory and descriptive analysis of social media datasets.
-
-### 🧠 [Topic Modeling](https://github.com/MonaFaghfouri/Topic_Modeling)
-
-Topic discovery and analysis using NLP and machine-learning approaches.
+Automated Reddit data collection using Python and PRAW for computational social science and NLP research.
 
 ---
 
