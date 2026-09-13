@@ -93,6 +93,7 @@ A Python-based data collection pipeline for extracting **Twitter/X posts, keywor
 
 ### 📱 [CafeBazaar Review Scraper](https://github.com/MonaFaghfouri/cafebazaar-review-scraper)
 An automated Playwright-based scraper for discovering apps, collecting **Persian user reviews**, cleaning duplicates, and exporting structured datasets for downstream analysis.
+
 ---
 
 ## 🎯 Current Focus
