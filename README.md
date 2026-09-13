@@ -74,21 +74,25 @@ with a focus on automating analytical and decision-support processes.
 
 ## 📌 Selected Repositories
 
+A selection of my projects across **AI & NLP research, forecasting, customer analytics, and automated data collection**.
+
 ### 🧠 [Topic Modeling](https://github.com/MonaFaghfouri/Topic_Modeling)
-A comparative NLP pipeline for Persian social media using LDA, TF-IDF, Word2Vec, BERT embeddings, graph analysis, temporal modeling, and statistical evaluation.
+A comprehensive NLP pipeline for Persian social media analysis using **LDA, TF-IDF, Word2Vec, BERT embeddings, DBSCAN, network analysis, temporal modeling, and statistical evaluation**.
+
+### 📈 [Sales Demand Classification & Forecasting](https://github.com/MonaFaghfouri/Sales-Demand-Classification-and-Forecasting)
+An end-to-end sales forecasting and decision-support pipeline using **ADI/CV² demand classification, statistical and intermittent-demand models, rolling backtesting, reliability-aware forecasting, and hierarchical sales-target allocation**.
 
 ### 💰 [Price Intelligence Platform](https://github.com/MonaFaghfouri/price-intelligence-platform)
-Multi-source price intelligence and product comparison platform built with Python, Streamlit, Playwright, and web data extraction.
+A multi-source **price intelligence and product comparison platform** built with Python, Streamlit, Playwright, and automated web data extraction.
 
 ### 📊 [RFM Customer Segmentation](https://github.com/MonaFaghfouri/RFM)
-Customer segmentation and behavioral analysis using Recency, Frequency, and Monetary (RFM) analysis.
+Customer segmentation and lifecycle analytics using **RFM analysis, K-Means clustering, outlier detection, and multi-period behavioral analysis**.
 
-### 🐦 [Twitter Data Scraping](https://github.com/MonaFaghfouri/Twitter-data-scraping)
-Data collection pipeline for extracting Twitter/X data for social media and computational research.
+### 🐦 [Twitter/X Data Scraping](https://github.com/MonaFaghfouri/Twitter-data-scraping)
+A Python-based data collection pipeline for extracting **Twitter/X posts, keywords, date ranges, and user timelines** for NLP and computational social science research.
 
-### 👽 [Reddit Data Scraping](https://github.com/MonaFaghfouri/Reddit-data-scraping)
-Automated Reddit data collection using Python and PRAW for computational social science and NLP research.
-
+### 📱 [CafeBazaar Review Scraper](https://github.com/MonaFaghfouri/cafebazaar-review-scraper)
+An automated Playwright-based scraper for discovering apps, collecting **Persian user reviews**, cleaning duplicates, and exporting structured datasets for downstream analysis.
 ---
 
 ## 🎯 Current Focus
